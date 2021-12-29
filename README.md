@@ -7,7 +7,7 @@ This is just an [old version](https://github.com/rhazdon/hugo-theme-hello-friend
 2. Update config.toml of the new site with config.toml
 
 Note: Don't install hugo via ubuntu packages.It is broken.
-Better install it with brew ( according to official documentation)
+Better install it with brew ( according to official [documentation](https://gohugo.io/getting-started/installing/))
 
 
 
