@@ -4,7 +4,10 @@ This is just an [old version](https://github.com/rhazdon/hugo-theme-hello-friend
 
 1. Generate a new hugo site and put the folder custom-hello-friend-ng in the "themes" folder of hugo site.
 
-2. Update config.tom of the new site with config.toml
+2. Update config.toml of the new site with config.toml
+
+Note: Don't install hugo via ubuntu packages.It is broken.
+Better install it with brew ( according to official documentation)
 
 
 
